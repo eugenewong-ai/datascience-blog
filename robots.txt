@@ -1,1 +1,1 @@
-Sitemap: https://eugenewong-ai.github.io/datascience-blog/sitemap.xml
+Sitemap: https://eugenewong.tech/blog/sitemap.xml
