@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Check out my portfolio with this link. .",
+          "content": ". If you are not redirected in five seconds, click here. .",
           "url": "http://eugenewong-ai.github.io/datascience-blog/about/",
           "relUrl": "/about/",
           "date": ""
