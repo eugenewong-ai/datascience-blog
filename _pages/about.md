@@ -3,6 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-Check out my portfolio with this **[link](https://eugenewong.tech)**.
-
+<head>
+  <meta http-equiv="refresh" content="1; URL=https://eugenewong.tech/" />
+</head>
+<body>
+  <p>If you are not redirected in five seconds, <a href="https://eugenewong.tech/">click here</a>.</p>
+</body>
