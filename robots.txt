@@ -1,1 +1,1 @@
-Sitemap: https://eugenewong.tech/blog/sitemap.xml
+Sitemap: http://eugenewong.tech/blog/sitemap.xml
