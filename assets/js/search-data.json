@@ -38,17 +38,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": ". If you are not redirected in five seconds, click here. .",
-          "url": "http://eugenewong-ai.github.io/datascience-blog/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
 
@@ -72,7 +61,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "http://eugenewong-ai.github.io/datascience-blog/robots.txt",
